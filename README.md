@@ -2,7 +2,7 @@
 
 A lightweight, rule-based converter from `.txt` to `.epub`, designed for novels, tutorials, and other long-form text.
 
-Chinese version: [README.zh.md](README.zh.md)
+[简体中文 README](README.zh.md)
 
 ## Features
 
